@@ -1,0 +1,20 @@
+[
+  {
+    "trained_at": "2026-08-07T11:14:53.023162+00:00",
+    "n_samples": 60,
+    "n_wins": 29,
+    "n_losses": 31,
+    "train_accuracy": 0.6833,
+    "weights": {
+      "sentiment": 0.23787226573990158,
+      "technical": 0.577634862440633,
+      "regime": 0.18449287181946553
+    },
+    "coefficients": {
+      "sentiment": 0.3992231445697471,
+      "technical": 1.1212088603849601,
+      "regime": 0.28579347248793696
+    },
+    "note": ""
+  }
+]
