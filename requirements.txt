@@ -8,3 +8,4 @@ requests>=2.31
 python-dotenv>=1.0
 vaderSentiment>=3.3
 APScheduler>=3.10
+pytest>=8.0
