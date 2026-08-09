@@ -17,6 +17,12 @@ __pycache__/
 # Uvicorn / FastAPI
 *.log
 
+# Local application state
+data/
+*.db
+*.db-shm
+*.db-wal
+
 # OS files
 .DS_Store
 Thumbs.db
